@@ -1,0 +1,68 @@
+{
+  "beaches": [
+    {
+      "name": "Maldives Beaches",
+      "description": "Pristine white sand beaches with crystal clear waters.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW55mnAm3GlIEXOGfY4b3LE81F1faM5EyYPA&s"
+    },
+    {
+      "name": "Bora Bora Beaches",
+      "description": "Luxurious overwater bungalows and stunning lagoons.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9yZmFX6EjtLwnu87-lBST6TmZZEE18weU2w&s"
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat",
+      "description": "The largest religious monument in the world.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpLiF0lUZrddUncPCd2pIDMuhbch2QXsVHA&s"
+    },
+    {
+      "name": "Borobudur",
+      "description": "Ancient Buddhist temple in Indonesia.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-M879HFAqCvbUT9hr30PqNDnL1iMZn8kcQ&s"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo",
+          "description": "Vibrant metropolis blending tradition and modernity.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CLa3v1ywp7oF8Z0Nkfl0zQsP4m1K15-sMw&s"
+        },
+        {
+          "name": "Kyoto",
+          "description": "Historical city with beautiful temples and gardens.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xsvRZAdZGH9hHcmAz1gl5OJFSMZdbWQmfg&s"
+        },
+        {
+          "name": "Osaka",
+          "description": "Known for modern architecture and nightlife.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdB7c5hUHutCqQlkW6SW5jMtEmF47smmHHiQ&s"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "cities": [
+        {
+          "name": "Rome",
+          "description": "The Eternal City with ancient ruins and art.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrWeCgz3AFz0j3QOkAPbA4SrqTaZkHFQzWQ&s"
+        },
+        {
+          "name": "Venice",
+          "description": "Romantic city of canals and bridges.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT25huWR4joRliJpuJfL14237AqqvC3gBjYlA&s"
+        },
+        {
+          "name": "Florence",
+          "description": "Birthplace of the Renaissance with stunning art.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfO5NeCLnRX4QNfuBX3F0r1sg9fNkCqTVGSQ&s"
+        }
+      ]
+    }
+  ]
+}
